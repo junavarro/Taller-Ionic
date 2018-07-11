@@ -1,0 +1,211 @@
+{
+   "participantes":[
+   {
+   "id": 0,
+   "name" :"Bertha Brenes Brenes",
+   "charla":"Aplicaciones Hibridas con Ionic",
+   "dia":"Viernes 13",
+   "hora":"8:40",
+   "duracion":2,
+   "organizacion": "GoTouch-Tecnologico de Costa Rica"
+   },
+   {
+     "id": 1,
+     "name" :"Aarón Galagarza Carrillo",
+     "charla":"Conference What is the Mozilla project?",
+     "dia":"Jueves 12",
+     "hora":"10:10",
+     "duracion":1,
+     "organizacion": "Mozilla-Costa Rica"
+   },
+   {
+     "id": 2,
+     "name" :"Luis Alonso Castro Mattei",
+     "charla": "Estrategias de migración a sotftware libre para instituciones/empresas de mediano a gran tamaño",
+     "dia":"Jueves 12",
+     "hora":"10:10",
+     "duracion":1,
+     "organizacion": "Universidad de Costa Rica / Costa Rica"
+   },
+   {
+     "id": 3,
+     "name" :"Leonardo Jiménez Quijano",
+     "charla": "OpenStreetMap: Mapeando mi comunidad",
+     "dia":"Jueves 12",
+     "hora":"10:10",
+     "duracion":1,
+     "organizacion": "Universidad de Costa Rica / Costa Rica"
+   },
+   {
+     "id": 4,
+     "name" :"Jeffry Francisco Ramos Gomez",
+     "charla": "BIO HELPER un nuevo comienzo",
+     "dia":"Jueves 12",
+     "hora":"10:10",
+     "duracion":1,
+     "organizacion": "Universidad Gerardo Barrios / El Salvador"
+   },
+   {
+     "id": 5,
+     "name" :"Jorge Mizrain Aguilar Pérez",
+     "charla": "Desarrollo de Videojuegos para la Web",
+     "dia":"Jueves 12",
+     "hora":"10:10",
+     "duracion":1,
+     "organizacion": "mozilla Honduras / Honduras"
+   },
+   {
+     "id": 6,
+     "name" :"Karla Hernández",
+     "charla": "Diversidad e Inclusion en Mozilla",
+     "dia":"Jueves 12",
+     "hora":"10:10",
+     "duracion":1,
+     "organizacion": "Comunidad Salvadoreña de Software Libre y Mozilla Centroamérica / El Salvador"
+   },
+   {
+     "id": 7,
+     "name" :"Carlos Bladimir Molina Medrano",
+     "charla": "Impacto del Software Libre en la Brecha Digital del sector educativo de El Salvador 2017-2018",
+     "dia":"Jueves 12",
+     "hora":"11:20",
+     "duracion":1,
+     "organizacion": "Universidad Luterana Salvadoreña / El Salvador"
+   },
+   {
+     "id": 8,
+     "name" :"Abiud Ademir Bermudez Aguilar",
+     "charla": "Robotito un Robot Social",
+     "dia":"Jueves 12",
+     "hora":"11:20",
+     "duracion":1,
+     "organizacion": "Universidad Gerardo Barrios / El Salvador"
+   },
+   {
+     "id": 9,
+     "name" :"Jorge Mizrain Aguilar Pérez",
+     "charla": "Desarrollo de Videojuegos para la Web",
+     "dia":"Jueves 12",
+     "hora":"11:20",
+     "duracion":1,
+     "organizacion": "mozilla Honduras / Honduras"
+   },
+   {
+     "id": 10,
+     "name" :"Eduardo Enrique Gomez Valencia",
+     "charla": "Colabora con mozilla",
+     "dia":"Jueves 12",
+     "hora":"11:20",
+     "duracion":1,
+     "organizacion": "Mozilla / El Salvador"
+   },
+   {
+     "id": 11,
+     "name" :"Karla Larreynaga",
+     "charla": "Importancia de la enseñanza y uso de software libre en las universidades.",
+     "dia":"Jueves 12",
+     "hora":"1:30",
+     "duracion":1,
+     "organizacion": "Universidad Gerardo Barrios / El Salvador"
+   },
+   {
+     "id": 12,
+     "name" :"Fredis Antonio Bran Medina",
+     "charla": "Herramientas de Software Libre en la Nube",
+     "dia":"Jueves 12",
+     "hora":"1:30",
+     "duracion":1,
+     "organizacion": "Universidad Gerardo Barrios / El Salvador"
+   },
+   {
+     "id": 13,
+     "name" :"Ramón Arístides Quintanilla Murillo",
+     "charla": "Robótica con Arduino",
+     "dia":"Jueves 12",
+     "hora":"1:30",
+     "duracion":1,
+     "organizacion": "Universidad Gerardo Barrios / El Salvador"
+   },
+   {
+     "id": 14,
+     "name" :"Kevin Oswaldo Chavez Berrios",
+     "charla": "TALLER INTRODUCTORIO DE MODELADO Y ANIMACIÓN 3D CON BLENDER",
+     "dia":"Jueves 12",
+     "hora":"1:30",
+     "duracion":1,
+     "organizacion": "UGB Usulután / El Salvador"
+   },
+   {
+     "id": 15,
+     "name" :"Roni Cecilio De León Villarreal",
+     "charla": "Conservatorio sobre privacidad web y tips para navegar seguro.",
+     "dia":"Jueves 12",
+     "hora":"2:40",
+     "duracion":1,
+     "organizacion": "Mozilla / Panama"
+   },
+   {
+     "id": 16,
+     "name" :"Gerson Joksan Alvarado Torres",
+     "charla":"Herramientas open source para desarrollo en plataformas ARM Cortex M (bare metal)",
+     "dia":"Jueves 12",
+     "hora":"2:40",
+     "duracion":1,
+     "organizacion": "Hacker Space San Salvador / El Salvador"
+   },
+   {
+     "id": 17,
+     "name" :"Mario Edgardo Gallegos",
+     "charla":"DecimaERP: El ERP libre para la MIPYME de Centroamérica",
+     "dia":"Jueves 12",
+     "hora":"2:40",
+     "duracion":1,
+     "organizacion": "DecimaERP / El Salvador"
+   },
+   {
+     "id": 18,
+     "name" :"Rosa Yasmin Ruiz González",
+     "charla":"Designer robot",
+     "dia":"Jueves 12",
+     "hora":"2:40",
+     "duracion":1,
+     "organizacion": "Universidad Gerardo Barrios / El Salvador"
+   },
+   {
+     "id": 19,
+     "name" :"Kevin Oswaldo Chavez Berrios",
+     "charla":"TALLER INTRODUCTORIO DE MODELADO Y ANIMACIÓN 3D CON BLENDER",
+     "dia":"Jueves 12",
+     "hora":"2:40",
+     "duracion":1,
+     "organizacion": "UGB Usulután / El Salvador"
+   },
+   {
+     "id": 20,
+     "name" :"MARIO ENRIQUE GOMEZ ARGUETA",
+     "charla":"Sistema de Asistencia Open-Harwdare ECSL 2018",
+     "dia":"Jueves 12",
+     "hora":"3:50",
+     "duracion":1,
+     "organizacion": "Hackerpace San Salvador / El Salvador"
+   },
+   {
+     "id": 21,
+     "name" :"Nahum Isaac Cruz Rivas",
+     "charla":"Serverus, un alimentador autonomo para mascotas",
+     "dia":"Jueves 12",
+     "hora":"3:50",
+     "duracion":1,
+     "organizacion": "Universidad Gerardo Barrios - Comunidad INNOTECH / El Salvador"
+   },
+   {
+     "id": 22,
+     "name" :"Omar Berroterán S.",
+     "charla":"GraphQL adios al RestFul en webservices",
+     "dia":"Jueves 12",
+     "hora":"3:50",
+     "duracion":1,
+     "organizacion": "Java User Group Nicaragua y Fedora Nicaragua / Nicaragua"
+   }
+   ]
+   }
