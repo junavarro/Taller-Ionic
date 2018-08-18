@@ -1,0 +1,21 @@
+**** Captar y seleccionar el talento humano con las destrezas necesarias y experiencia relevante es vital para garantizar el éxito del proyecto. Es importante asignar el trabajo apropiado a la persona indicada.
+
+**** El ciclo de vida del desarrollo del software tiene una fuerte dependencia del proceso elegido. El modelo en cascado, la metodología ágil, el enfoque iterativo en espiral, son todos formas contrastadas de alcanzar el éxito. La dificultad está en elegir bien qué metodología le conviene más a cada tipo de proyecto.
+
+**** Muchos proyectos fracasan o se prolongan en plazos por hacer estimaciones poco realistas. Una planificación razonable depende de fijar bien los tiempos, el presupuesto, los recursos y los esfuerzos. Lo mejor es usar técnicas de estimación y presupuestarias contrastadas. Intentar apretar las estimaciones para intentar acortar un proyecto normalmente termina en catástrofe.
+
+**** Los grandes proyectos e hitos deben complementarse con mini-hitos para poder hacer mejor seguimiento, más control y mejor gestión de riesgos, y en general para mitigar incidencias de una forma más controlada.
+
+**** Documentar de manera efectiva los requisitos es la columna vertebral para poder alinear el producto final con los objetivos empresariales.
+
+**** El diseño debe ser modular y estar optimizado. Equilibrar y distribuir funcionalidad entre varios módulos puede hacer que el proyecto funcione bien o que rompa. Un enfoque orientado a objetos es una técnica que garantiza modularidad
+
+**** La planificación de pruebas, la creación de conjuntos de pruebas y la ejecución de las mismas son muy importantes con el fin de validar la funcionalidad desarrollada. 
+
+**** Aún siendo importante el propio software, igual de importante es toda la documentación sobre el que se apoya.
+
+**** Las revisiones de código muchas veces son más efectivas, y sin duda menos costoso, para encontrar errores que si solo hacemos pruebas. 
+
+**** El uso de de una gestión efectiva del código fuente y la documentación, para que estén controlados según la versión, es fundamental para poder mantener la trazabilidad y la reversión controlada del código si fuera necesario. En el mercado hay mucho software disponible para este tipo de tareas.
+
+**** Incluso cuando el software desplegado está funcionando, debe haber un proceso de soporte y mantenimiento en marcha, previamente diseñado y pensado, para poder informar y reportar errores y mejoras al equipo de desarrollo de forma eficaz.

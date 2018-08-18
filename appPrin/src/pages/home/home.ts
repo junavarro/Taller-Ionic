@@ -6,7 +6,7 @@ import { UsuariosProvider } from '../../providers/usuarios/usuarios'
   templateUrl: 'home.html'
 })
 export class HomePage {
-usuarios:any[] = [];
+usuarios:any = [];
   constructor(public navCtrl: NavController, public provider: UsuariosProvider) {
 
   }
