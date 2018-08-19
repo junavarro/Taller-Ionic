@@ -21,11 +21,16 @@ Ionic es un framwork de desarrollo de aplicaciones moviles hibridas. Se debe ins
 Un SDK es un kit de desarrollo de software es generalmente un comjunto de herramientas o desarrollo de software. Android ofrece una gran vaiedad para los diferentes habilidades.
 ******
 Una vez que se tenga todas las herramientas instaladas, se procede con los primeros ejercicios. Esto con la idea de se entiendan los conceptos basicos de cada modulo por separado y despues trabajar con ionic sea mas amigable y sencillo
-
+*****
 # [HMTL5](/app/Ejer1)
 Como Ionic es un framework para desarrollar aplicaciones hibirdas debemos usar htlm5 porque de esta forma es que vamos a visualizar nuestros datos.
 
-
+***
 # [Estilos](/app/Ejerc2)
 Para que la aplicacion se vea bonita debemos trabajar con estilos, podemos entrar aca para ver los ejericios.
+****
 # [TypeScript](/app/Ejer3)
+Ahora vamos a trabajar con TypeScript para saber como obtener datos de una base de datos.
+***
+Ahora a lo que venimos la aplicacion de ionic
+# [IonicAPP](/app/Prin)
