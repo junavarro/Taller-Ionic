@@ -33,4 +33,4 @@ Para que la aplicacion se vea bonita debemos trabajar con estilos, podemos entra
 Ahora vamos a trabajar con TypeScript para saber como obtener datos de una base de datos.
 ***
 Ahora a lo que venimos la aplicacion de ionic
-# [IonicAPP](/app/Prin)
+# [IonicAPP](/appPrin)
