@@ -3,7 +3,7 @@
 Este taller esta desarrollado por el equipo de Gotouch para todas aquellas personas con conocimiento minimo de aplicaciones moviles enfocado en el uso de ionic 2.
 Este repositorio va a servir como guia para el taller, cada seccion tiene ejercicios con su respectivas instrucciones. La intencion es ir conociendo cada seccion por separado primero antes de conocer el funcionamiento de ionic y las aplicaciones moviles en general.
 ****
-
+Pueden ver la presentacion de [slide](https://slides.com/gotouch/educacion-y-moviles-9/live#/2/3)
 ## Herramientas que usaremos
 
 Para pode seguir con este taller, se debe tener instalado una serie de herramientas para la computadora de forma que tengas nuestro ambiente de desarrollo listo
