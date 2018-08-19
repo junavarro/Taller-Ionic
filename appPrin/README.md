@@ -17,9 +17,9 @@ Se ingresa a la carpeta de pages y ahi dentro de la carpeta home se identifican 
 
 2. Para el html de about:
 
- * Colocamos la imagen y el texto. La imagen esta en este # [link](/assets/imgs)
+ * Colocamos la imagen y el texto. La imagen esta en este # [link](src/assets/imgs)
 
- 
+
 3. Ahora a crear el provider para empezar a obtener los datos:
 ```bash
  $ ionic g provider diccionario
