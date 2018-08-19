@@ -1,14 +1,14 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>Participantes ESCL</ion-title>
+    <ion-title>Diccionario</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
   <ion-list>
-    <button ion-item *ngFor = "let usuario of usuarios">
-      <h2>  {{usuario.id}} - {{usuario.name}}</h2>
-      <p> Charla: {{usuario.charla}}</p>
+    <button ion-item *ngFor = "let usuario of usuarios" (click)="PalabraSelected(usuario.id)">
+     <h2> {{usuario.id}} - {{usuario.nombreEs}}
+      </h2>    
     </button>
   </ion-list>
 </ion-content>

@@ -14,7 +14,7 @@ export class UsuariosProvider {
     console.log('Hello UsuariosProvider Provider');
   }
   load(){
-    return this.http.get('http://localhost:3000/participantes');
+    return this.http.get('http://localhost:3000/Palabras');
   }
 
 }
