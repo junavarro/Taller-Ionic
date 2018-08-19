@@ -15,5 +15,9 @@ usuarios:any = [];
       (data)=>{this.usuarios = data;}
     )
   }
+  updateVideoUrl(id:string){
+     this.url="../assets/img/"+id;
+     console.log( this.url);
+ }
 
 }

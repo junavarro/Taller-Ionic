@@ -19,6 +19,7 @@ Se ingresa a la carpeta de pages y ahi dentro de la carpeta home se identifican 
 
  * Colocamos la imagen y el texto. La imagen esta en este # [link](/assets/imgs)
 
+ 
 3. Ahora a crear el provider para empezar a obtener los datos:
 ```bash
  $ ionic g provider diccionario
@@ -38,11 +39,10 @@ Ahora vamos a crear la vista que va a contener el diccionario.
   ```
   * Una vez alli vamos a crear una funcion que llame al get del diccionario.
   * En el html vamos a crear una ion-list cualquiera de los que tiene disponible  [IonicDocs](https://ionicframework.com/docs/components/)
-  * Crear la funcion click en el html y asignarle la funcion que se creo.
 
-  Una vez hecho todo esto y con el servidor arriba. Podemos porfin ejecutar la aplicacion.
+  Una vez hecho todo esto y con el servidor arriba. Podemos porfin ejecutar la aplicacion. Para ver los datos.
 
-2. Ejecutar la aplicacion de ionic.
+5. Ejecutar la aplicacion de ionic.
 ```bash
  ionic serve
 ```
